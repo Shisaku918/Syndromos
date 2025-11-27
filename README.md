@@ -87,4 +87,4 @@ Contributions are welcome! You can propose new features, commands, or improve bo
 
 ## License
 
-This project is open-source. Please credit the main author: **Shisaku**.
+This project is open-source. Please credit the main author: **Shigeru**.
